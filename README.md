@@ -1,4 +1,4 @@
-### Hi there 👋
+🔭 Astrophysicist working on formation and dynamics of cosmic structures.
 
 <!--
 **syrte/syrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
