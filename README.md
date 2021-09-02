@@ -1,5 +1,7 @@
 🔭 Astrophysicist working on formation and dynamics of cosmic structures.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrte&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/syrte)
+
 <!--
 **syrte/syrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
