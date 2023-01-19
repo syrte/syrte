@@ -7,7 +7,7 @@ Papers that cited my codes:
 [ADS database](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20full%3A%22github.com%2Fsyrte%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrte&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/syrte)
+[![syrte's GitHub stats](https://readme-stats.clckblog.space/api?username=syrte&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/syrte)
 
 <!--
 **syrte/syrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
