@@ -1,4 +1,4 @@
-Zhaozhou Li (previously known as "Syrtis Major" on GitHub)
+Hi there, I'm Zhaozhou Li, previously known as "**Syrtis Major**" (@syrte) on GitHub
 
 🏛️ Postdoc at The Hebrew University of Jerusalem   [[personal website]](https://syrte.github.io/)
 
