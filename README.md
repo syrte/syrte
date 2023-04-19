@@ -1,8 +1,10 @@
-Zhaozhou Li, Postdoc at The Hebrew University of Jerusalem; previously known as "Syrtis Major" on GitHub.
+Zhaozhou Li (previously known as "Syrtis Major" on GitHub)
+
+🏛️ Postdoc at The Hebrew University of Jerusalem
 
 🔭 Astrophysicist working on formation and dynamics of cosmic structures.
 
-Papers that cited my codes: 
+📚 Papers that cited my codes: 
 [Google Scholar](https://scholar.google.com/scholar?start=0&q=%22github.com/syrte%22),
 [ADS database](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20full%3A%22github.com%2Fsyrte%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
