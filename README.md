@@ -4,7 +4,7 @@ Hi there, I'm Zhaozhou Li, previously known as "**Syrtis Major**" (@syrte) on Gi
 
 💫 Astrophysicist working on formation and dynamics of cosmic structures  [[NASA/ADS]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&p_=0&q=%3Dauthor%3A%22Li%2C%20Zhao-Zhou%22%20OR%20%3Dauthor%3A%22Li%2C%20Zhaozhou%22&sort=date%20desc%2C%20bibcode%20desc)
 
-🎹 List of my public [repos](https://github.com/syrte?tab=repositories&q=&type=source&language=&sort=) and [gist code snippets](https://gist.github.com/syrte)
+🎹 My public [repos](https://github.com/syrte?tab=repositories&q=&type=source&language=&sort=) and [gist code snippets](https://gist.github.com/syrte)
 
 📚 Papers that cited my codes: 
 [Google Scholar](https://scholar.google.com/scholar?start=0&q=%22github.com/syrte%22),
