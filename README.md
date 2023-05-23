@@ -8,7 +8,8 @@ Hi there, I'm Zhaozhou Li, previously known as "**Syrtis Major**" (@syrte) on Gi
 
 📚 Papers that cited my codes: 
 [Google Scholar](https://scholar.google.com/scholar?start=0&q=%22github.com/syrte%22),
-[ADS database](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20full%3A%22github.com%2Fsyrte%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+[arXiv](https://search.arxiv.org/?query=%22github.com%2Fsyrte%22)
+<!-- [ADS database](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20full%3A%22github.com%2Fsyrte%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) -->
 
 
 
