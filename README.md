@@ -1,6 +1,6 @@
 Hi there, I'm Zhaozhou Li, previously known as "**Syrtis Major**" (@syrte) on GitHub
 
-🏛️ MSCA Fellow at The Hebrew University of Jerusalem  [[personal website]](https://syrte.github.io/) 
+🏛️ Marie Skłodowska-Curie Fellow at The Hebrew University of Jerusalem  [[personal website]](https://syrte.github.io/) 
 
 💫 Astrophysicist working on formation and dynamics of cosmic structures  [[NASA/ADS]](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&p_=0&q=%3Dauthor%3A%22Li%2C%20Zhao-Zhou%22%20OR%20%3Dauthor%3A%22Li%2C%20Zhaozhou%22&sort=date%20desc%2C%20bibcode%20desc)
 
