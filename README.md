@@ -13,7 +13,7 @@ Hi there, I'm Zhaozhou Li, previously known as "**Syrtis Major**" (@syrte) on Gi
 
 
 
-[![syrte's GitHub stats](https://readme-stats.clckblog.space/api?username=syrte&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/syrte)
+[![syrte's GitHub stats](https://github-stats-extended.vercel.app/api?username=syrte&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/syrte)
 
 <!--
 **syrte/syrte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
